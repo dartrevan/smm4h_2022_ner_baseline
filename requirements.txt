@@ -1,0 +1,5 @@
+seqeval
+torch
+transformers
+datasets
+NLPDatasetIO @ git+https://github.com/dartrevan/NLPDatasetIO.git
